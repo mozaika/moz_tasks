@@ -9,6 +9,8 @@ gem 'sinatra'
 gem 'sinatra-contrib'
 gem 'thin'
 
+gem 'thor'
+
 gem 'sequel'
 
 gem 'dry-struct'
