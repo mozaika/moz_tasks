@@ -23,6 +23,10 @@ gem 'representable'
 
 gem 'hashie'
 
+gem 'liquid'
+gem 'oj'
+gem 'slim'
+
 group :development, :test do
   gem 'pry'
   gem 'rubocop'
