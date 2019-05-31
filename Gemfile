@@ -27,6 +27,8 @@ gem 'liquid'
 gem 'oj'
 gem 'slim'
 
+gem 'leveldb-ruby'
+
 group :development, :test do
   gem 'pry'
   gem 'rubocop'
