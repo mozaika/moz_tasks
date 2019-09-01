@@ -27,6 +27,9 @@ gem 'liquid'
 gem 'oj'
 gem 'slim'
 
+# github pages
+gem 'jekyll'
+
 gem 'leveldb-ruby'
 
 group :development, :test do
