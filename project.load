@@ -1,0 +1,4 @@
+LOAD DATABASE
+  FROM mysql://root:ooloo1chi@project.megarulez.ru:3306/mg_project
+  INTO pgsql://localhost/mg_project
+  ALTER SCHEMA 'mg_project' RENAME TO 'public';
