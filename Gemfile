@@ -32,6 +32,8 @@ gem 'jekyll'
 
 gem 'leveldb-ruby'
 
+gem 'mechanize'
+
 group :development, :test do
   gem 'pry'
   gem 'rubocop'
